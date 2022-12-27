@@ -9,6 +9,8 @@ This project was created to combat the emergency healthcare crisis currently hap
 Hospital Bot is a texting chat bot that provides the latest wait times and directions to the nearest hospitals. All hospital data is scraped from: http://www.edwaittimes.ca/WaitTimes.aspx. The value of this chatbot is that it runs fully on SMS via cellular connection, no internet/data connection is necessary for the user. There is also no download required, only a text message is required to get started.
 
 Key Technologies:
+
   Webscraping and data processing: Python, Beautifulsoup, Selenium, Pandas, Lxml, GoogleMaps API 
+  
   Deployment: Twilio, Heroku, Gunicorn, Flask
   
