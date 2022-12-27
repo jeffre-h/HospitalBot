@@ -21,8 +21,5 @@ Key Technologies:
 
 
 ## Contributors
-Ronney Lok
-Jeffrey Wong
-Derek Huang
-Kevin Hau
+Ronney Lok, Jeffrey Wong, Derek Huang, Kevin Hau
 
