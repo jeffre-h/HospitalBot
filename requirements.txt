@@ -1,0 +1,13 @@
+flask
+twilio
+selenium
+beautifulsoup4
+gunicorn
+requests
+lxml
+webdriver-manager
+pandas
+googlemaps
+parse
+bs4
+html5lib
