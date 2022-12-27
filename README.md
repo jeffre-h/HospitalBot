@@ -12,3 +12,17 @@ Key Technologies:
 - Webscraping & Data Processing: Python, Beautifulsoup, Selenium, Pandas, Lxml, GoogleMaps API 
 - Deployment: Twilio, Heroku, Gunicorn, Flask
   
+## Instructions
+1. Set up Heroku
+2. Text the address of your current location to 255-800-4128 and the HospitalBot will return the 3 closest hospitals with respect to distance and wait time.
+
+![image](https://user-images.githubusercontent.com/90656973/209623520-8858898e-34b8-424f-8481-0bb8b4828e31.png)
+
+
+
+## Contributors
+Ronney Lok
+Jeffrey Wong
+Derek Huang
+Kevin Hau
+
